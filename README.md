@@ -11,5 +11,7 @@ https://naya.moph.go.th/table.php?p=databaseicd10
 ![image](https://github.com/NaritNt/icd-10-tm/assets/131785594/c2b1d591-bb70-41ea-998f-3a99dca51e3e)
 
 ## ศูนย์มาตรฐานรหัสและข้อมูลสุขภาพแห่งชาติ
-ข้อมูลมาแหล่งนี้โดยเฉพาะ โดยที่มีปี 2016 Vol.1
+ข้อมูลมาแหล่งนี้โดยเฉพาะ โดยที่มีปี 2016 Vol.1 
+http://thcc.or.th/ICD-10TM/
 ![Uploading image.png…]()
+
